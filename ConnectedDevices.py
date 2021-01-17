@@ -1,3 +1,5 @@
+#install python-nmap module.
+#install nmap https://nmap.org/.
 import nmap
 import socket
 s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
