@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-s
+#tested on linux.
 
 from scapy.all import *
 import threading
