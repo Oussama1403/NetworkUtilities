@@ -1,5 +1,6 @@
 #install python-nmap module.
 #install nmap https://nmap.org/.
+#RUN AS SUDO TO OUTPUT MAC ADDRESS.
 import nmap
 import socket
 s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
