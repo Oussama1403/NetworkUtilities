@@ -20,9 +20,9 @@ php -S 127.0.0.1:8000 -t your_folder/
 ```
 (The name of the PHP file inside the root folder must be index.php)
 
-# Local web server with Python
-
 #
+
+# Local web server with Python
 
 ## Description
 
